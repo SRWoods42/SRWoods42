@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SRWoods42
 - 👀 I’m interested in program development
 - 🌱 I’m currently learning advanced techniques in Python.
-- 💞️ I’m looking to collaborate on exercises for college students
+- 💞️ I’m looking to collaborate on study exercises for college students
 - 📫 How to reach me by email: srwoods42@gmail.com
 
 <!---
